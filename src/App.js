@@ -1,17 +1,17 @@
 import "bootstrap/dist/css/bootstrap.min.css";
 import "./App.css";
 import React from "react";
-import AppHeader from "./components/header";
-import AppHero from "./components/hero";
-import AppAbout from "./components/about";
-import AppServices from "./components/services";
-import AppWorks from "./components/works";
-import AppTeams from "./components/teams";
-import AppTestimonials from "./components/testimonials";
-import AppPricing from "./components/pricing";
-import AppBlog from "./components/blog";
-import AppContact from "./components/contact";
-import AppFooter from "./components/footer";
+import AppHeader from "components/HeaderPage";
+import AppHero from "components/HeroPage";
+import AppAbout from "components/AboutPage";
+import AppServices from "components/ServicesPage";
+import AppWorks from "components/WorksPage";
+import AppTeams from "components/TeamsPage";
+import AppTestimonials from "components/TestimonialsPage";
+import AppPricing from "components/PricingPage";
+import AppBlog from "components/BlogPage";
+import AppContact from "components/ContactPage";
+import AppFooter from "components/FooterPage";
 
 function App() {
     return (

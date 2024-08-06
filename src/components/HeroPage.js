@@ -7,7 +7,7 @@ var heroData = [
         title: "The perfect design for your website",
         description:
             "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab suscipit dicta nulla. Consequuntur obcaecati officiis, labore doloribus non tempore impedit consequatur ab dolor. Explicabo quam repellendus vero omnis, nisi odio!",
-        link: "https://www.google.com",
+        link: "linkedin.com/in/abhishek-gupta-1a7923253",
     },
     {
         id: 2,
